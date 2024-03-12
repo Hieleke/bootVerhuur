@@ -33,10 +33,10 @@
         .radio {
             display: flex;
         }
-        .radio >*{
+
+        .radio>* {
             margin: 0 15px;
         }
-
     </style>
 </head>
 
