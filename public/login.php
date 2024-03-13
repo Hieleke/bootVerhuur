@@ -51,7 +51,7 @@
       </div>
       <button type="submit" name="login" class="btn btn-primary">Login</button>
       <a href="register.php" class="btn btn-primary">Registeer</a>
-      <a href="beheerderLogin.php" class="btn btn-primary">Admin</a>
+      <a href="beheerderlogin.php" class="btn btn-primary">Admin</a>
     </form>
 
   </div>

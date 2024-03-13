@@ -78,7 +78,7 @@ $bestellingen = db_query("SELECT boot, dagdeel, reservationDate, id FROM `orders
                 <h1>Welkom <?= $_SESSION['user']['firstName'] ?> <?= $_SESSION['user']['lastName'] ?>,</h1>
                 <h3>hier vind je al je relevante informatie.</h3>
             </div>
-            <a href="Logout.php" class="btn btn-Danger">Logout</a>
+            <a href="logout.php" class="btn btn-Danger">Logout</a>
         </div>
         <br>
         <?php
